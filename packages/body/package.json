@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.1.0",
-    "postcss": "^8.2.1",
+    "postcss": "^8.4.31",
     "vue": "^3.0.0",
     "single-spa-vue": "^2.1.0"
   }
